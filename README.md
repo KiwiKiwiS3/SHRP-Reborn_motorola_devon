@@ -18,7 +18,3 @@ Is Not working:
 - Themes
 - Fashlight
 - Some tweaks
-
-  If you have any suggestion or something else, please let me know and I will try to solve it as soon as posible :)
-
-  Thanks
