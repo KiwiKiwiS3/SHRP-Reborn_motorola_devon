@@ -10,7 +10,7 @@ Is working:
 - Mount
 - File Manager
 - Terminal
-- Some Tweaks ( I'm working on that now )
+- Some Tweaks ( I'm working on that now. )
 
 Is Not working:
 
