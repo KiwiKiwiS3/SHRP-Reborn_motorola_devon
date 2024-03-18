@@ -11,8 +11,11 @@ Is working:
 - File Manager
 - Terminal
 - suspention
-Is Not working:
 
+
+- Is Not working:
+
+  
 - Magisk install zip ( built-in magisk )
 - Themes
 - Fashlight
