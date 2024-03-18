@@ -10,11 +10,11 @@ Is working:
 - Mount
 - File Manager
 - Terminal
-- Some Tweaks ( I'm working on that now. )
-
+- suspention
 Is Not working:
 
 - Magisk install zip ( built-in magisk )
 - Themes
 - Fashlight
-- Some tweaks
+- vibration
+- tweaks menu (will be fixed later )
