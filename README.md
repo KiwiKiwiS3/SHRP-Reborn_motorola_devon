@@ -17,4 +17,4 @@ Is Not working:
 - Themes
 - Fashlight
 - vibration
-- tweaks menu (will be fixed later )
+- tweaks menu ( will be fixed later )
