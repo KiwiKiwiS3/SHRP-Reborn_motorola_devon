@@ -10,7 +10,7 @@ Is working:
 - Restore
 - Mount
 - File Manager
-- Magisk install zip ( built-in magisk v27.1 )
+- Magisk install zip ( built-in magisk v27.0 )
 - Terminal
 - suspention
 
