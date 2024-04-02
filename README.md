@@ -13,11 +13,11 @@ Is working:
 - Magisk install zip ( built-in magisk v27.0 )
 - Terminal
 - suspention
+- Security
+- Themes Menu ( it's working )
+- Tweaks Menu
 
-
+  
 - Is Not working:
-
-- Themes
 - Fashlight
 - vibration
-- tweaks menu ( will be fixed later )
