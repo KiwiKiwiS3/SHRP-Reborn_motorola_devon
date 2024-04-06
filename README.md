@@ -6,6 +6,7 @@ Is working:
 
 - Flashing zip file
 - Wipe
+- Touch
 - Backup
 - Restore
 - Mount
