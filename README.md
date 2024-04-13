@@ -12,6 +12,7 @@ Is working:
 - Mount
 - File Manager
 - Magisk install zip ( built-in magisk v27.0 )
+- Status Bar 
 - Terminal
 - suspention
 - Security
