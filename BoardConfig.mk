@@ -63,8 +63,6 @@ TW_BRIGHTNESS_PATH := /sys/class/backlight/panel0-backlight/brightness
 TW_DEFAULT_BRIGHTNESS := 1800
 TW_MAX_BRIGHTNESS := 3514
 
-# Add support of able to wake with touch after sleep
-TW_NO_SCREEN_BLANK := true
 
 # Remove vibration support
 TW_NO_HAPTICS := true
@@ -76,10 +74,6 @@ TARGET_RECOVERY_QCOM_RTC_FIX := true
 TW_USE_LEGACY_BATTERY_SERVICES := true
 
 # Statusbar icons flags
-TW_STATUS_ICONS_ALIGN := center
-TW_CUSTOM_CLOCK_POS := 50
-TW_CUSTOM_CPU_POS := 280
-TW_CUSTOM_BATTERY_POS := 790
 
 # Use our own USB config
 TW_EXCLUDE_DEFAULT_USB_INIT := true
@@ -146,10 +140,10 @@ TW_INCLUDE_FUSE_EXFAT := true
 
 # NTFS Support
 TW_INCLUDE_FUSE_NTFS := true
-# no disable DM-verity
+# No dm-verity an another unnecesary tweaks
+SHRP_SKIP_DEFAULT_ADDON_1 := true
+SHRP_SKIP_DEFAULT_ADDON_2 := true
+SHRP_SKIP_DEFAULT_ADDON_3 := true
 SHRP_SKIP_DEFAULT_ADDON_4 := true
 # SHRP Express use Data save shrp files inside /data instead of /system
 SHRP_EXPRESS_USE_DATA := true
-
-
-
